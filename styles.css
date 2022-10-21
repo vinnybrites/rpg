@@ -1,0 +1,21 @@
+body{
+    background-color: #D2B48C;
+    width: 940px;
+    top: 0;  
+}
+
+.part-1{
+    display: flex;
+    justify-content: space-around;
+    margin: 2em 0 2em 0;
+    padding: 1em;
+}
+
+.container{
+    background-color: #696969;
+}
+
+img{
+    width: 150px;
+}
+
